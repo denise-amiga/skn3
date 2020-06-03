@@ -1,0 +1,66 @@
+[submodule "paintpanel"]
+	path = paintpanel
+	url = https://github.com/skn3/paintpanel.git
+[submodule "maxguiex"]
+	path = maxguiex
+	url = https://github.com/skn3/maxguiex.git
+[submodule "systemex"]
+	path = systemex
+	url = https://github.com/skn3/systemex.git
+[submodule "activities"]
+	path = activities
+	url = https://github.com/skn3/activities.git
+[submodule "vrope"]
+	path = vrope
+	url = https://github.com/skn3/vrope.git
+[submodule "sortablelist"]
+	path = sortablelist
+	url = https://github.com/skn3/sortablelist.git
+[submodule "arraysorter"]
+	path = arraysorter
+	url = https://github.com/skn3/arraysorter.git
+[submodule "funcs"]
+	path = funcs
+	url = https://github.com/skn3/funcs.git
+[submodule "chartboost"]
+	path = chartboost
+	url = https://github.com/skn3/chartboost.git
+[submodule "imagebuffer"]
+	path = imagebuffer
+	url = https://github.com/skn3/imagebuffer.git
+[submodule "screenres"]
+	path = screenres
+	url = https://github.com/skn3/screenres.git
+[submodule "aes"]
+	path = aes
+	url = https://github.com/skn3/aes.git
+[submodule "qrcode"]
+	path = qrcode
+	url = https://github.com/skn3/qrcode.git
+[submodule "stringbuffer"]
+	path = stringbuffer
+	url = https://github.com/skn3/stringbuffer.git
+[submodule "checkonline"]
+	path = checkonline
+	url = https://github.com/skn3/checkonline.git
+[submodule "nativeui"]
+	path = nativeui
+	url = https://github.com/skn3/nativeui.git
+[submodule "arraylist"]
+	path = arraylist
+	url = https://github.com/skn3/arraylist.git
+[submodule "callbacks"]
+	path = callbacks
+	url = https://github.com/skn3/callbacks.git
+[submodule "xml"]
+	path = xml
+	url = https://github.com/skn3/xml.git
+[submodule "monkeyspine"]
+	path = monkeyspine
+	url = https://github.com/skn3/monkeyspine.git
+[submodule "tinyaes"]
+	path = tinyaes
+	url = https://github.com/skn3/tinyaes.git
+[submodule "lua"]
+	path = lua
+	url = https://github.com/skn3/lua.git
